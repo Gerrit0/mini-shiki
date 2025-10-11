@@ -2,7 +2,7 @@
   "type": "module",
   "license": "MIT",
   "name": "@gerrit0/mini-shiki",
-  "version": "3.13.0",
+  "version": "3.13.1",
   "exports": {
     ".": {
       "types": "./dist/shiki.d.ts",
