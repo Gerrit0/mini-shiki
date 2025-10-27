@@ -1,5 +1,9 @@
 # Changelog
 
+## v3.14.0 (2025-10-27)
+
+- Update to Shiki v3.14.0
+
 ## v3.13.1 (2025-10-11)
 
 - No behavior changes, migrated release workflow to use trusted publishing.
